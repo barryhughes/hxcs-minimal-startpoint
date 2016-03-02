@@ -1,0 +1,5 @@
+-cs build
+-cp src
+-main App
+-D haxe3
+
